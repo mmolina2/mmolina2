@@ -1,19 +1,8 @@
-## Hi there 👋
 
 <!--
 **mmolina2/mmolina2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-# Hi, I'm Maria! 👋
-
-I'm a student at the University of Notre Dame studying Finance.
-
-## About Me
-- 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: mmolina2@nd.edu
-
 ## Interests
 - [Add a few of your interests or hobbies]
 
@@ -26,3 +15,13 @@ I'm a student at the University of Notre Dame studying Finance.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Maria! 👋
+
+I'm a student at the University of Notre Dame studying Finance.
+
+## About Me
+- 🎓 Currently taking Introduction to Data Science
+- 🌱 Learning Python, pandas, and data visualization
+- 📫 How to reach me: mmolina2@nd.edu
+
+
