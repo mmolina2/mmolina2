@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Maria! 
 
 ## About Me
+- 🏛️ Sophomore at the University of Notre Dame
 - 🎓 Majoring in Finance, Minors in Data Science and Portuguese
 - 🇨🇴 From Bogota, Colombia
 - 📊 Interested in data science, analytics, and using data to understand real-world problems
