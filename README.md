@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Maria! 👋
-
-I'm a student at the University of Notre Dame studying Finance.
+# Hi, I'm Maria! 
 
 ## About Me
-- 🎓 Majoring in Finance, Minors in Data Science and Portuguese
-- 🇨🇴 From Bogota, Colombia
-- 🌱 Interested in data science, analytics, and using data to understand real-world problems
-- 📫 How to reach me: mmolina2@nd.edu
+- Majoring in Finance, Minors in Data Science and Portuguese
+- From Bogota, Colombia
+- Interested in data science, analytics, and using data to understand real-world problems
+- How to reach me: mmolina2@nd.edu
 
 ## Technical Skills
 - **Tools & Skills:** Python, Jupyter Notebook, data cleaning and basic data analysis
