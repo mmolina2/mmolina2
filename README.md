@@ -20,8 +20,17 @@ Here are some ideas to get you started:
 I'm a student at the University of Notre Dame studying Finance.
 
 ## About Me
-- 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
+- 🎓 Majoring in Finance, Minors in Data Science and Portuguese
+- 🇨🇴 From Bogota, Colombia
+- 🌱 Interested in data science, analytics, and using data to understand real-world problems
 - 📫 How to reach me: mmolina2@nd.edu
 
+## Technical Skills
+- **Tools & Skills:** Python, Jupyter Notebook, data cleaning and basic data analysis
+
+## Portfolio
+📁 **Data Science Portfolio**  
+https://github.com/mmolina2/Molina-Data-Science-Portfolio
+
+This repository contains selected projects demonstrating my data analysis workflow, from data exploration to insight communication.
 
