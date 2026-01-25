@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Technical Skills
 - **Tools & Skills:** Python, Jupyter Notebook, data cleaning and basic data analysis
 
-## Portfolio
+## Portfolios
 📁 **Data Science Portfolio**  
 https://github.com/mmolina2/Molina-Data-Science-Portfolio
 
